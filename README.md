@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
 <h3 align="center">A computer science student who likes to code❤</h3>
+![](assets/IntroImage.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
