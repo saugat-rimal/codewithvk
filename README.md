@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-<div align='center'>
-  <img src='./assets/IntroImage.png' />
- </div>
- <br />
+<div align="center">
+  <img src='./assets/IntroImage.png' height="60%" width ="60%"  />
+  <br />
 <p>           I am a CSE undergraduate student at vvp engineering college , Rajkot. I am a competitive programmer and I work on web development projects.</p>
+ </div>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vk_javiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vk_javiya" height="30" width="40" /></a>
