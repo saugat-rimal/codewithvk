@@ -16,4 +16,7 @@
 
 <h3>My Stats</h3>
 <br />
-![Vivek's States](https://github-readme-stats.vercel.app/api?username=codewithvk&theme=dark&show_icons=true)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithvk&theme=dark&show_icons=true" />
+  </div>
+
