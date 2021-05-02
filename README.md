@@ -2,7 +2,7 @@
 <div align="center">
   <img src='./assets/IntroImage.png' height="70%" width ="70%"  />
   <br />
-<p>           I am a CSE undergraduate student at vvp engineering college , Rajkot.<br /> I am a competitive programmer and I work on web development projects.</p>
+<p>           I am a CSE undergraduate student at vvp engineering college , Rajkot.<br /> I Like to do competitive programmer and web development</p>
  </div>
  
 <h3 align="left">Connect with me:</h3>
